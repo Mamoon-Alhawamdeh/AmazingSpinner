@@ -1,0 +1,2 @@
+include ':app', ':amazingspinner'
+rootProject.name='Amazing Spinner'

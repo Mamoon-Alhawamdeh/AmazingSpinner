@@ -36,7 +36,7 @@ class AmazingSpinner: AutoCompleteTextView {
 
                 isFocusable = false
                 isFocusableInTouchMode = false
-                isEnabled = false
+                inputType = 0
 
                 this.setOnClickListener {
 

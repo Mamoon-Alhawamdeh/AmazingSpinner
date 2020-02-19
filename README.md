@@ -19,7 +19,7 @@ allprojects {
 And add the following dependency code to your **module**'s `build.gradle` file.
 ```gradle
 dependencies {
-    implementation 'com.github.Mamoon-Alhawamdeh:Amazing_Spinner:${latest-version}"
+    implementation 'com.github.Mamoon-Alhawamdeh:AmazingSpinner:${latest-version}"
 }
 ```
 

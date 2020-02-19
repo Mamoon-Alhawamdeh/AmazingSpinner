@@ -1,4 +1,5 @@
-# Amazing Spinner
+# Amazing Spinner [![](https://jitpack.io/v/Mamoon-Alhawamdeh/AmazingSpinner.svg)](https://jitpack.io/#Mamoon-Alhawamdeh/AmazingSpinner)
+
 Android Spinner support hint
 
 # Demo

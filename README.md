@@ -1,4 +1,4 @@
-# Amazing_Spinner
+# Amazing Spinner
 Android Spinner support hint
 
 # Demo

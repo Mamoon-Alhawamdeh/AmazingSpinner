@@ -52,6 +52,19 @@ dependencies {
         android:layout_marginRight="16dp"
         android:hint="hint"/>
 ```
+### Inside Activity Or Fragment
+```kotlin
+mAmazingSpinner1.onItemClickListener =
+AdapterView.OnItemClickListener { adapter, v, position, id ->
+
+                Toast.makeText(this, adapter.getItemAtPosition(position).toString(), Toast.LENGTH_LONG).show()
+
+            }
+```
+### OR
+```kotlin
+mAmazingSpinner1.text.toString()
+```
 ### Customization
 
 You can use `TextInputLayout` styles and properties or `Spinner` styles and properties.

@@ -13,7 +13,7 @@ Add below code to your **root** `build.gradle` file
 ```gradle
 allprojects {
     repositories {
-        jcenter()
+        maven { url 'https://jitpack.io' }
     }
 }
 ```
